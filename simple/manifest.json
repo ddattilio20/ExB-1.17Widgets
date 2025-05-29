@@ -1,6 +1,6 @@
 {
-  "name": "planViewer",
-  "label": "planViewer",
+  "name": "simple",
+  "label": "Simple",
   "type": "widget",
   "version": "1.17.0",
   "exbVersion": "1.17.0",
@@ -15,6 +15,5 @@
   "defaultSize": {
     "width": 800,
     "height": 500
-  },
-  "dependency":["jimu-arcgis"]
+  }
 }
